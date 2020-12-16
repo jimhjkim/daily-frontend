@@ -9,3 +9,5 @@
 [Rotating Navigation](https://jimhjkim.github.io/daily-frontend/rotating-navigation/)
 
 [Hidden Search Widget](https://jimhjkim.github.io/daily-frontend/hidden-search-widget/)
+
+[Blurry Loading](https://jimhjkim.github.io/daily-frontend/blurry-loading/)
