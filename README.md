@@ -11,3 +11,5 @@
 [Hidden Search Widget](https://jimhjkim.github.io/daily-frontend/hidden-search-widget/)
 
 [Blurry Loading](https://jimhjkim.github.io/daily-frontend/blurry-loading/)
+
+[Scroll Animation](https://jimhjkim.github.io/daily-frontend/scroll-animation/)
