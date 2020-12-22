@@ -13,3 +13,5 @@
 [Blurry Loading](https://jimhjkim.github.io/daily-frontend/blurry-loading/)
 
 [Scroll Animation](https://jimhjkim.github.io/daily-frontend/scroll-animation/)
+
+[Split Landing Page](https://jimhjkim.github.io/daily-frontend/split-landing-page/)
