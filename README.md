@@ -15,3 +15,5 @@
 [Scroll Animation](https://jimhjkim.github.io/daily-frontend/scroll-animation/)
 
 [Split Landing Page](https://jimhjkim.github.io/daily-frontend/split-landing-page/)
+
+[Form Wave Animation](https://jimhjkim.github.io/daily-frontend/form-wave-animation/)
