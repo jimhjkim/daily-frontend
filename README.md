@@ -19,3 +19,5 @@
 [Form Wave Animation](https://jimhjkim.github.io/daily-frontend/form-wave-animation/)
 
 [Sound Board](https://jimhjkim.github.io/daily-frontend/sound-board/)
+
+[Dad Jokes](https://jimhjkim.github.io/daily-frontend/dad-jokes/)
