@@ -21,3 +21,5 @@
 [Sound Board](https://jimhjkim.github.io/daily-frontend/sound-board/)
 
 [Dad Jokes](https://jimhjkim.github.io/daily-frontend/dad-jokes/)
+
+[Event Key Codes](https://jimhjkim.github.io/daily-frontend/event-keycodes/)
